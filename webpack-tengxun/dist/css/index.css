@@ -1,0 +1,15 @@
+* {
+    margin:  0 ;
+    padding: 0 ;
+    font-size: 20px;
+}
+li{
+    font-size: 100px;
+}
+.header {
+  width: 100%;
+  height: 400px;
+  background-color: blueviolet;
+  background-image: url(../images/big.jpg);
+}
+
